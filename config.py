@@ -19,4 +19,4 @@ TOP_N_HOLDINGS = 10  # Limit to top 5 holdings per ETF
 ETF_OUTPUT_FILE = 'etf_weights_rebalancing.csv'
 
 # API keys
-ALPHAVANTAGE_API_KEY = "80HLC8UDC38Z6HVE"
+ALPHAVANTAGE_API_KEY = "your key"
